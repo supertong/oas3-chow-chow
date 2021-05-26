@@ -624,10 +624,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
   integrity sha512-l42BggppR6zLmpfU6fq9HEa2oGPEI8yrSPL3GITjfRInppYFahObbIQOQK3UGxEnyQpltZLaPe75046NOZQikw==
 
-"@types/xregexp@3.0.30":
-  version "3.0.30"
-  resolved "https://registry.yarnpkg.com/@types/xregexp/-/xregexp-3.0.30.tgz#333d550467dd27ef989f375629f8f279a97cee39"
-  integrity sha512-u1dpabg81Rd660bYebOqMXO0+E63H1hxunPAWGebNb7TpxqZYe9YaVLgkkj6ZnzLs3yLumtVB956o8u8OZdhXw==
+"@types/xregexp@4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@types/xregexp/-/xregexp-4.3.0.tgz#e981c9b7281579019cc5740e08d206f3403e029f"
+  integrity sha512-3gJTS9gt27pS7U9q5IVqo4YvKSlkf2ck8ish6etuDj6LIRxkL/2Y8RMUtK/QzvE1Yv2zwWV5yemI2BS0GGGFnA==
 
 "@types/yargs-parser@*":
   version "13.1.0"
