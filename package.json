@@ -38,10 +38,10 @@
     "@types/node": "14.17.1",
     "@types/xregexp": "3.0.30",
     "babel-core": "6.26.3",
-    "babel-jest": "24.9.0",
-    "jest": "24.9.0",
+    "babel-jest": "27.0.6",
+    "jest": "27.0.6",
     "prettier": "2.2.1",
-    "ts-jest": "24.3.0",
+    "ts-jest": "27.0.3",
     "typescript": "3.7.4"
   }
 }
